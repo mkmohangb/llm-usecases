@@ -11,5 +11,9 @@
   - Time To First Token (TTFT), Time Between Tokens (TBT)
   - We picked **YAML** because it is less verbose, and hence **consumes fewer tokens** than JSON
   - Wrapping RPC APIs in LLM friendly schema
+    
+  ![image](https://github.com/mkmohangb/llm-usecases/assets/2610866/115d7f10-dada-484a-95d1-3145c4356c58)
+
   - 80 to 95% took 4 months
-  - 
+
+
